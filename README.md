@@ -24,7 +24,9 @@ Image information
 
 4.Target(y):
 
-Gende
+Gender
+
+
 
 
 
