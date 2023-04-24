@@ -1,8 +1,0 @@
-The address of the dataset I use is https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
-
-The data set is of cropped images of male and female . It is split into training and validation directory. 
-Training contains ~23,000 images of each class and test contains ~5,500 images of each class.
-(because it did't have the test data,I change the validation to the test data)
-
-I only used the CNN model, but I normalized the data and processed it using Adam optimizer and CSE loss function. 
-This model is 80% correct and helps us distinguish between genders in a large number of pictures of people
